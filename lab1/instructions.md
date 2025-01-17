@@ -41,5 +41,5 @@ Upon startup, before displaying the menu, the program will execute the following
 Check the command line to see how these commands affected the to do list.
 Then you can use the program as normal, and view the generated to do list items.
 
-
-**Submit your GitHub username associated with this repository and the link to the repository on Canvas as a text entry.**
+Github username: jordanglass21
+https://github.com/jordanglass21/CS-5500/tree/main/lab1
