@@ -1,0 +1,17 @@
+{
+  "name": "todomanage-ts-template",
+  "version": "1.0.0",
+  "description": "A Simple TodoManager App",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
